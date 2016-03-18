@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.BITP3454.mydailyexpenses.ExpensesMainActivity" >
+
+    <item
+        android:id="@+id/action_listExpense"
+        android:orderInCategory="100"
+        android:title="@string/action_listExpense"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_try_list"
+        android:orderInCategory="100"
+        android:title="@string/action_try_list"
+        app:showAsAction="never"        
+        />
+
+</menu>

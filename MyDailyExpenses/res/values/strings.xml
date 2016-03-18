@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyDailyExpenses</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_listExpense">Expenses List</string>
+    <string name="lblExpName">"Expenses Name: "</string>
+    <string name="lblPrice">Price (RM):</string>
+    <string name="lblSave">Save!</string>
+    <string name="lblPriceHint">10, 5.50</string>
+    <string name="title_activity_tabbed_main">TabbedMainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_list_expense">ListExpenseActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_try_sql">TrySqlActivity</string>
+    <string name="action_try_list">Try List</string>
+    <string name="title_activity_list_out">ListOutActivity</string>
+    <string name="lblDate">Date :</string>
+
+</resources>
